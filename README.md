@@ -1,13 +1,8 @@
 # 👋 Hey there! I'm Fellipe Couto  
 
-🚀 **VP of Professional Experience at BossaBox** | Connecting top talent with market opportunities  
+🚀 **Head of Product at Zig**
 💡 Passionate about **Product-Led Growth (PLG), Go-to-Market (GTM), and Product-Market Fit (PMF)**  
 📈 Experienced in **leading digital products, scaling startups, and driving strategic growth**  
-
-## 🔥 What I Do  
-- 🏢 Currently leading the **Professional Experience unit at BossaBox**, enhancing freelancer engagement and retention  
-- 🎯 Focused on **market expansion, strategic product development, and innovation in SaaS B2B & B2B2C**  
-- 🌎 Exploring trends in **freelancing, pro-lancers, and outsourcing** with benchmarks like **TopTal, Arc, BairesDev, Gigster and Turing**  
 
 ## 💬 Let's Talk About  
 - 🚀 **Startups, Entrepreneurship, and Digital Products**  
