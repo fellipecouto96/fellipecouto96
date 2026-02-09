@@ -1,7 +1,9 @@
 # 👋 Hey there! I'm Fellipe Couto  
 
 🚀 **Head of Product at Zig**
+
 💡 Passionate about **Product-Led Growth (PLG), Go-to-Market (GTM), and Product-Market Fit (PMF)**  
+
 📈 Experienced in **leading digital products, scaling startups, and driving strategic growth**  
 
 ## 💬 Let's Talk About  
@@ -10,6 +12,7 @@
 - 🌍 **Future of Work, Freelance Economy, and Remote Teams**  
 
 ## ✨ A Bit About Me  
+- 👶 Arthur’s dad (full-time hero, part-time sleep deprived)
 - 🐱 Proud cat dad of **Tokyo, Simba, and Gamora**  
 - 🎮 Gamer at heart, always up for a good challenge  
 - 🎬 Huge fan of **movies and series**, and recently loved:  
